@@ -2,9 +2,7 @@
 using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace MarchingCubesProject{
-
-    public class Example{
+    public static class ConvertVoxelToMesh{
 
         public static void Convert(){
 
@@ -79,5 +77,3 @@ namespace MarchingCubesProject{
         }
 
     }
-
-}

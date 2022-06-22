@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MarchingCubesProject
-{
+
     /// <summary>
     /// A helper class to hold voxel data.
     /// </summary>
@@ -235,4 +234,3 @@ namespace MarchingCubesProject
     }
 
 
-}

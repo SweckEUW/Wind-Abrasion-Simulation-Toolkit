@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace MarchingCubesProject
-{
+
     public class MarchingTertrahedron : Marching
     {
 
@@ -176,4 +175,4 @@ namespace MarchingCubesProject
 
     }
 
-}
+

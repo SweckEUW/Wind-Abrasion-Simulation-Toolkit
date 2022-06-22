@@ -36,11 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\MarchingCubes\Marching\VoxelArray.cs" />
-     <Compile Include="Assets\Scripts\MarchingCubes\Marching\MarchingTertahedron.cs" />
-     <Compile Include="Assets\Scripts\MarchingCubes\Marching\MarchingCubes.cs" />
-     <Compile Include="Assets\Scripts\MarchingCubes\Example.cs" />
-     <Compile Include="Assets\Scripts\MarchingCubes\Marching\Marching.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\ConvertVoxelToMesh.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\ExportMesh.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Import\ImportVoxel.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\MarchingCubes\MarchingTertahedron.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\MarchingCubes\Marching.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\MarchingCubes\MarchingCubes.cs" />
+     <Compile Include="Assets\Scripts\Preperation\Export\MarchingCubes\VoxelArray.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

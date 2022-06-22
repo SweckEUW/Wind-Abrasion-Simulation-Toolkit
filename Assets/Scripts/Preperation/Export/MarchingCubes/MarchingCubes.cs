@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace MarchingCubesProject
-{
+
     public class MarchingCubes : Marching
     {
 
@@ -388,5 +387,3 @@ namespace MarchingCubesProject
 	    {-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1}
 	    };
     }
-
-}

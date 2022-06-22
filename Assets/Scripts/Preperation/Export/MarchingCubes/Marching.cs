@@ -4,8 +4,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace MarchingCubesProject
-{
+
     public abstract class Marching
     {
         /// <summary>
@@ -163,4 +162,3 @@ namespace MarchingCubesProject
 
     }
 
-}
